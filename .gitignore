@@ -1,4 +1,5 @@
 *.txt
 *.vec
 *.bin
+*.npy
 text8
